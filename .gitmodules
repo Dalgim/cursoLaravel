@@ -1,0 +1,3 @@
+[submodule "prueba_git"]
+	path = prueba_git
+	url = https://github.com/Dalgim/prueba_git.git
